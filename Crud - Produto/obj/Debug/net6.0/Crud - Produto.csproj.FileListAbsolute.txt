@@ -284,3 +284,11 @@ C:\Users\User\source\repos\Crud - Produto\Crud - Produto\bin\Debug\net6.0\System
 C:\Users\User\source\repos\Crud - Produto\Crud - Produto\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\User\source\repos\Crud - Produto\Crud - Produto\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\User\source\repos\Crud - Produto\Crud - Produto\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\Crud - Produto\Crud - Produto\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\source\repos\Crud - Produto\Crud - Produto\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\source\repos\Crud - Produto\Crud - Produto\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\source\repos\Crud - Produto\Crud - Produto\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\source\repos\Crud - Produto\Crud - Produto\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\source\repos\Crud - Produto\Crud - Produto\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\source\repos\Crud - Produto\Crud - Produto\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\source\repos\Crud - Produto\Crud - Produto\obj\Debug\net6.0\Crud - Produto.MvcApplicationPartsAssemblyInfo.cs

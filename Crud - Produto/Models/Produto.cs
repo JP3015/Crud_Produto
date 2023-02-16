@@ -21,11 +21,12 @@ namespace Crud___Produto.Models
 
         [Column("Preco")]
         [Display(Name = "Preço")]
-        public double preco { get; set; }
+        [DataType(DataType.Currency)]
+        public Decimal preco { get; set; }
 
         [Column("Peso")]
         [Display(Name = "Peso")]
-        public double peso { get; set; }
+        public decimal peso { get; set; }
 
     }
 }
